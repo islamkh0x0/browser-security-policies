@@ -205,8 +205,8 @@ Note --> If you intercept the request using **Burp Suite or any external tool**,
 ---
 ## So, thts Mean That:
 
-**SOP**: Prevents cross-origin access to protect users from attacks.
-**CORS**: Allows controlled cross-origin requests using HTTP headers.
-**Simple Requests**: Allowed if they use safe methods/headers.
-**Preflight Requests**: Sent before non-simple requests for security approval.
-**Credentialed Requests**: Require `Access-Control-Allow-Credentials: true`.
+**SOP**: Prevents cross-origin access to protect users from attacks.  
+**CORS**: Allows controlled cross-origin requests using HTTP headers.  
+**Simple Requests**: Allowed if they use safe methods/headers.  
+**Preflight Requests**: Sent before non-simple requests for security approval.  
+**Credentialed Requests**: Require `Access-Control-Allow-Credentials: true`.  
